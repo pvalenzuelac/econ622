@@ -3,3 +3,12 @@ In this document I will upload screenshots that show that I executed steps 1b an
 
 Here is a screenshot of me adding Giulia as my collaborator (well I added her before taking the screenshot but this is just after that). 
 ![image](/screenshots/ss1.png)
+
+You can see that I cloned Giulia's repos to my local desktop.
+![image](/screenshots/ss2.png)
+![image](/screenshots/ss3.png)
+
+I am also very annoying so I created an Issue on Giulia's code. I assigned her to the issue and labeled the is.
+![image](/screenshots/ss4.png)
+![image](/screenshots/ss5.png)
+![image](/screenshots/ss6.png)
