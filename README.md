@@ -1,2 +1,2 @@
 # ECON622
-In this repository I will upload all my problem sets for [ECON622](https://github.com/ubcecon/ECON622_2020). Probably all the results are full of mistakes.
+In this repository I will upload all the stuff made for [ECON622](https://github.com/ubcecon/ECON622_2020). Probably all archives are full of mistakes.
