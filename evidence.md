@@ -18,3 +18,23 @@ I am also very annoying so I created an Issue on Giulia's code. I assigned her t
 ![image](/screenshots/ss5.png)
 
 ![image](/screenshots/ss6.png)
+
+I created two Pull-Request for Giulia's page:
+
+![image](/screenshots/ss7.png)
+
+![image](/screenshots/ss8.png)
+
+I also received an Issue from Giulia, fixed it, and closed the Issue. I then pulled it from my GitHub Desktop.
+
+![image](/screenshots/ss9a.png)
+
+![image](/screenshots/ss9b.png)
+
+![image](/screenshots/ss9c.png)
+
+Since I am very annoying, I also commented on one commit!
+
+![image](/screenshots/ss10.png)
+
+I don't understand very well what does ''Ensure you can run their code without any modifications''. If you are watching this part is because I was able to upload all the files. Is that what the problem set aimed for?
