@@ -38,3 +38,15 @@ Since I am very annoying, I also commented on one commit!
 ![image](/screenshots/ss10.png)
 
 I don't understand very well what does ''Ensure you can run their code without any modifications''. If you are watching this part is because I was able to upload all the files. Is that what the problem set aimed for?
+
+Also, for exercise 1c I modified the README.md file from Giulia's repo. Here I attach the evidence.
+
+![image](/screenshots/ss11.png)
+
+![image](/screenshots/ss12.png)
+
+I broke it!!! 
+
+![image](/screenshots/ss13.png)
+
+![image](/screenshots/ss14.png)
