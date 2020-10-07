@@ -52,3 +52,13 @@ I broke it!!!
 ![image](/screenshots/ss13.png)
 
 ![image](/screenshots/ss14.png)
+
+Also Giulia broke my page :(
+
+![image](/screenshots/ss15.png)
+
+![image](/screenshots/ss16.png)
+
+![image](/screenshots/ss17.png)
+
+![image](/screenshots/ss18.png)
